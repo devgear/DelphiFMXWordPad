@@ -28,9 +28,6 @@ Coordinates=127,10,53,51
 [Layout1]
 Coordinates=597,276,53,33
 
-[Panel3]
-Coordinates=532,276,47,33
-
 [TabControl1]
 Coordinates=437,276,74,33
 
@@ -65,7 +62,7 @@ Coordinates=403,10,70,51
 Coordinates=826,56,168,33
 
 []
-Coordinates=138,216,77,33
+Coordinates=356,150,70,51
 Visible=True
 
 [SpinBox1]
@@ -73,9 +70,6 @@ Coordinates=72,1,61,51
 
 [Button10]
 Coordinates=356,80,58,51
-
-[CheckBox4]
-Coordinates=356,150,70,51
 
 [Panel4]
 Coordinates=306,80,47,33
@@ -147,4 +141,7 @@ Coordinates=196,10,53,51
 
 [Prior_Button]
 Coordinates=493,10,53,51
+
+[EditPanel]
+Coordinates=532,276,47,33
 

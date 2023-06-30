@@ -1,24 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.865,E:\Project_NotePad.dproj=E:\Project_NotePad.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.416,E:\Unit108.fmx=E:\온라인특강\파이어몽키\Unit108.fmx</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.732,E:\온라인특강\파이어몽키\Unit108.fmx=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit108.fmx</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.879,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project105.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project105.dproj</Transaction>
     <Transaction>1899-12-30 00:00:00.000.186,E:\Project_NotePad.dproj=E:\Project105.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.922,E:\UMAIN_NOTEPAD.fmx=E:\Unit108.fmx</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.474,E:\온라인특강\파이어몽키\Project105.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project105.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.922,E:\UMAIN_NOTEPAD.pas=E:\Unit108.pas</Transaction>
     <Transaction>1899-12-30 00:00:00.000.194,E:\Project_NotePad1.dproj=E:\Project_NotePad.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.558,E:\Project105.dproj=E:\온라인특강\파이어몽키\Project105.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.245,E:\onLine_Special1\UMain_NotePad.pas=E:\UMAIN_NOTEPAD.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.004,E:\onLine_Special1\Project_NotePad.dproj=E:\Project_NotePad1.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.245,E:\onLine_Special1\UMain_NotePad.fmx=E:\UMAIN_NOTEPAD.fmx</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.385,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit108.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.416,E:\Unit108.pas=E:\온라인특강\파이어몽키\Unit108.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.456,E:\2023_OnLine_Special1\UMain_NotePad.pas=E:\Edu\DelphiFMXWordpad\UMain_NotePad.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.416,E:\Unit108.fmx=E:\온라인특강\파이어몽키\Unit108.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.456,E:\2023_OnLine_Special1\UMain_NotePad.fmx=E:\Edu\DelphiFMXWordpad\UMain_NotePad.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.865,E:\Project_NotePad.dproj=E:\Project_NotePad.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.692,E:\2023_OnLine_Special1\Project_NotePad.dproj=E:\2023_OnLine_Special1\Project_NotePad.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.922,E:\UMAIN_NOTEPAD.fmx=E:\Unit108.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.295,E:\Edu\DelphiFMXWordpad\UMain_NotePad.fmx=E:\2023_OnLine_Special1\UMain_NotePad.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.295,E:\Edu\DelphiFMXWordpad\UMain_NotePad.pas=E:\2023_OnLine_Special1\UMain_NotePad.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.736,E:\2023_OnLine_Special1\Project_NotePad.dproj=E:\Edu\DelphiFMXWordpad\Project_NotePad.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.922,E:\UMAIN_NOTEPAD.pas=E:\Unit108.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.474,E:\온라인특강\파이어몽키\Project105.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project105.dproj</Transaction>
     <Transaction>1899-12-30 00:00:00.000.732,E:\온라인특강\파이어몽키\Unit108.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit108.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.004,E:\onLine_Special1\Project_NotePad.dproj=E:\Project_NotePad1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.879,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project105.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project105.dproj</Transaction>
     <Transaction>1899-12-30 00:00:00.000.165,E:\Project105.dproj=E:\Project105.dproj</Transaction>
-    <Transaction>2023-05-18 23:03:28.277,E:\onLine_Special1\Project_NotePad.dproj=E:\onLine_Special1\Project_NotePad.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.245,E:\onLine_Special1\UMain_NotePad.pas=E:\UMAIN_NOTEPAD.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.558,E:\Project105.dproj=E:\온라인특강\파이어몽키\Project105.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.277,E:\onLine_Special1\Project_NotePad.dproj=E:\onLine_Special1\Project_NotePad.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.245,E:\onLine_Special1\UMain_NotePad.fmx=E:\UMAIN_NOTEPAD.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.597,E:\Edu\DelphiFMXWordpad\Project_NotePad.dproj=E:\Edu\DelphiFMXWordpad\Project_NotePad.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.126,E:\Edu\DelphiFMXWordpad\Project_NotePad.dproj=E:\2023_OnLine_Special1\Project_NotePad.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.416,E:\Unit108.pas=E:\온라인특강\파이어몽키\Unit108.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.385,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit108.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.732,E:\온라인특강\파이어몽키\Unit108.fmx=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit108.fmx</Transaction>
+    <Transaction>2023-06-29 19:03:13.419,E:\Edu\DelphiFMXWordpad\Project_NotePad.dproj=E:\Edu\DelphiFMXWordpad\Project_NotePad.dproj</Transaction>
+    <Transaction>2023-06-29 19:03:33.742,E:\2023_OnLine_Special1\UMain_NotePad.fmx=E:\Edu\DelphiFMXWordpad\UMain_NotePad.fmx</Transaction>
+    <Transaction>2023-06-29 19:03:33.742,E:\2023_OnLine_Special1\UMain_NotePad.pas=E:\Edu\DelphiFMXWordpad\UMain_NotePad.pas</Transaction>
+    <Transaction>2023-06-29 19:03:43.239,E:\2023_OnLine_Special1\Project_NotePad.dproj=E:\Edu\DelphiFMXWordpad\Project_NotePad.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile Android="4da96a71" Android64=""/>
